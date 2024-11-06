@@ -3,7 +3,7 @@ Front-end programmer with a passion for design, always looking for new and chall
 
 My current skillset goes far as:
 - 📖 Analysis and Systems Development (2026)
-- 🏷️ Web development focused on Front-end (HTML, SCSS, Javascript)
+- 🏷️ Web development focused on Front-end (HTML, SCSS, Javascript, Bootstrap)
 - 📁 System and Software Architecture
 - 📈 Code reusability
 - 🖇️ Dynamic Typing
